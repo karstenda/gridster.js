@@ -17,6 +17,7 @@ Gridster is maintained by Ducksboard occasionally but not actively.
 @dustmoo and @pushmatrix have also write permissions as Gridster maintainers
 they are. Thank you guys!
 
+
 ## Forks
 
 Mr @dustmoo (maintainer of Gridster) has his own fork of gridster.js
